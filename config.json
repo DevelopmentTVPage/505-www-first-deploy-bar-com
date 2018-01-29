@@ -1,0 +1,15 @@
+{
+    "title": "GHMOMS",
+    "baseURL": "https:\/\/www.first-deploy-bar.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759124",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "first-deploy-bar.com"
+    }
+}
